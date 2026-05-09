@@ -103,13 +103,13 @@ MemPalace originated from a "Vibe Coding" session with **Milla Jovovich** (Archi
 
 ### Official Project & Background
 * [**GitHub: MemPalace Repository**](https://github.com/Noqta-Digital/MemPalace): Official open-source repository and code base.
-* [**Noqta: Milla Jovovich Co-Creates MemPalace**](https://www.noqta.digital/p/milla-jovovich-co-creates-mempalace): Project announcement and initial 96.6% Raw Mode metrics.
+* [**Noqta: Milla Jovovich Co-Creates MemPalace**](https://noqta.tn/en/news/mempalace-milla-jovovich-open-source-ai-memory-system-2026): Project announcement and initial 96.6% Raw Mode metrics.
 * [**Cybernews: Milla Jovovich creates MemPalace AI Tool**](https://cybernews.com/tech/milla-jovovich-mempalace-ai-tool/): Narrative origins and the Resident Memory vision.
 
 ### Technical Deep-Dives
-* [**Recca0120’s Blog: 170 Tokens to Recall Everything**](https://recca0120.medium.com/mempalace-170-tokens-to-recall-everything-e28e81561066): Breakdown of the L0/L1 token hierarchy and spatial structures.
-* [**Medium: Romko Kozak - MemPalace in the Wild**](https://medium.com/@romko.kozak/mempalace-in-the-wild-resident-memory-and-the-death-of-context-limits-00f73587e954): Practical analysis of Knowledge Graphs and privacy.
+* [**Recca0120’s Blog: 170 Tokens to Recall Everything**](https://recca0120.github.io/en/2026/04/08/mempalace-ai-memory-system/): Breakdown of the L0/L1 token hierarchy and spatial structures. *(Updated to active GitHub Pages link)*
+* ~~[**Medium: Romko Kozak - MemPalace in the Wild**](https://medium.com/@romko.kozak/mempalace-in-the-wild-resident-memory-and-the-death-of-context-limits-00f73587e954): Practical analysis of Knowledge Graphs and privacy.~~ *(Link currently unavailable/removed)*
 
 ### Critical Audits & Community Sanity Checks
-* [**Vectorize: MemPalace Benchmarks Debunked**](https://www.vectorize.io/mempalace-benchmarks-debunked/): Engineering audit of the 100% success claims.
-* [**Reddit r/LocalLLaMA: Sanity Check Discussion**](https://www.reddit.com/r/LocalLLaMA/comments/1iwsnd7/mempalace_by_milla_jovovich_is_actually_insane/): Community discussion regarding "Lu," Claude Code, and benchmark overfitting.
+* [**Vectorize: MemPalace Benchmarks Debunked**](https://vectorize.io/articles/mempalace-benchmarks): Engineering audit of the 100% success claims. *(Updated to active URL)*
+* [**Reddit r/LocalLLaMA: Sanity Check Discussion**](https://www.reddit.com/r/LocalLLaMA/comments/1si5lc4/sanity_check_on_milla_jovovichs_mempalace_mixed/): Community discussion regarding "Lu," Claude Code, and benchmark overfitting. *(Updated to correct active thread)*
