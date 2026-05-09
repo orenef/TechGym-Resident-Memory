@@ -103,8 +103,7 @@ MemPalace originated from a "Vibe Coding" session with **Milla Jovovich** (Archi
 
 ### Official Project & Background
 * [**GitHub: MemPalace Repository**](https://github.com/MemPalace/mempalace): Official open-source repository and code base.
-* 
-* [**Noqta: Milla Jovovich Co-Creates MemPalace**](https://noqta.tn/en/news/mempalace-milla-jovovich-open-source-ai-memory-system-2026): Project announcement and initial 96.6% Raw Mode metrics.
+* [**Project announcement**](https://www.mempalace.tech/): Project announcement and initial 96.6% Raw Mode metrics.
 
 ### Technical Deep-Dives
 * [**Recca0120’s Blog: 170 Tokens to Recall Everything**](https://recca0120.github.io/en/2026/04/08/mempalace-ai-memory-system/): Breakdown of the L0/L1 token hierarchy and spatial structures. *(Updated to active GitHub Pages link)*
